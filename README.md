@@ -54,6 +54,7 @@ interests: Web Development
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=triard&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
+<br />  
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=triard&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
