@@ -71,7 +71,3 @@ interests: Web Development
 </div>
 
 ---
-⭐️ *Profile README ini dibuat berdasarkan panduan desain modern.*
-
-> **Catatan untuk Animasi Snake:**
-> Untuk menampilkan animasi ular yang memakan kontribusi pada graf hijau Anda, Anda perlu membuat GitHub Actions di repository Anda dengan menggunakan `Platane/snk`. Action tersebut akan menjalankan script otomatis untuk meng-generate gambar SVG snake dan menaruhnya ke branch `output`.
